@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<h2 align="center"><i><strong>Hi! I'm Pancholag</strong></i> 👋👋</h2>
+<div align="center">
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pancholag&layout=donut&size_weight=0.5&count_weight=0.5&theme=radical"/>
+</div>
 <!--
 **Pancholag/Pancholag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
